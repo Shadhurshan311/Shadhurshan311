@@ -2,9 +2,10 @@
 
 *(Known as Chotu)*
 
-🎓 **Electrical & Electronic Engineering Undergraduate**
-🏛️ **University of Peradeniya, Sri Lanka**
-✈️ Strong interest in **Aviation, Aeronautical & Avionics Engineering**, with hands-on experience in **embedded systems, IoT, and AI-driven sensing systems**.
+🎓 `Electrical & Electronic Engineering Undergraduate`
+|| 🏛️ `University of Peradeniya, Sri Lanka`
+
+✈️ Strong interest in **Aviation, Aeronautical & Avionics Engineering**
 
 ---
 
@@ -94,12 +95,14 @@
 ## 🎓 Education
 
 **University of Peradeniya**
-Bachelor of Engineering (B.Sc. Eng.) – Electrical & Electronic Engineering
-**GPA:** 3.30 / 4.00
+
+Bachelor of Engineering (B.Sc. Eng.) – Electrical & Electronic Engineering:
+**CGPA:** 3.30 / 4.00
 
 **KM/Carmel Fatima College**
-G.C.E. Advanced Level: 2A, 1B (District Rank: 9)
-G.C.E. Ordinary Level: 9A
+
+G.C.E. Advanced Level: 2A, 1B (District Rank: 9); 
+ G.C.E. Ordinary Level: 9A
 
 ---
 
