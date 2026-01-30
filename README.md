@@ -1,58 +1,116 @@
-# Hi there! I'm Shadhurshan Navaretnam 👋 
+# Hi there! I'm Shadhurshan Navaretnam 👋
+
 *(Known as Chotu)*
 
-> **Electrical & Electronic Engineering Student** at the **University of Peradeniya** > ⚡ Passionate about Communication & Networking, Embedded Systems & IoT, and Smart Automation.
+🎓 **Electrical & Electronic Engineering Undergraduate**
+🏛️ **University of Peradeniya, Sri Lanka**
+✈️ Strong interest in **Aviation, Aeronautical & Avionics Engineering**, with hands-on experience in **embedded systems, IoT, and AI-driven sensing systems**.
 
 ---
 
-### 🛠️ Technical Toolkit
+## 🛠️ Technical Skills & Toolset
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Programming & ML** | C, Python, MATLAB, Embedded C, Verilog, R, PyTorch, XGBoost, OpenCV, scikit-learn |
-| **Embedded & IoT** | ATmega328P, ESP32, Arduino, LoRa, Wi-Fi, MQTT, Node-RED, Sensors (Capacitive, Piezo, IR) |
-| **Design & Simulation** | EasyEDA, KiCad, AutoCAD, Proteus, Vivado (FPGA), PSCAD, Cisco Packet Tracer. |
-| **Analysis & Tools** | Power BI, Wireshark, Fluke Connect, Audacity, REW, VS Code, Atmel Studio. |
-| **Hobbies** | Football ⚽ |
+### 🔹 Programming, Embedded & ML
 
----
+* **Languages:** C, Embedded C/C++, Python, MATLAB, Verilog, Assembly, R
+* **AI & ML:** PyTorch (MLP), XGBoost, SVM, scikit-learn, OpenCV
+* **Edge Intelligence:** Feature extraction, signal filtering, real-time inference
 
-### 🚀 Academic Projects & Engineering Work
+### 🔹 Embedded Systems & IoT
 
-#### 🏗️ [Smart Sensor Network for Structural Health Monitoring](LINK_TO_REPO)
-*An IoT-based system designed for real-time tracking of structural integrity using distributed sensor nodes.*
-- **Tech:** Arduino, Sensor Fusion, Data Networking.
+* **Microcontrollers:** ESP32 (Dual-core), ATmega328P (AVR), Arduino, ARM Cortex-M (basics)
+* **Protocols & Interfaces:** I²C, SPI, UART, MQTT, Wi-Fi, LoRa
+* **Architectures:** Master–Slave sensor networks, IoT gateways
 
-#### 🔐 [Integrated Smart Lock Product](LINK_TO_REPO)
-*A commercial-grade door lock featuring dual-layer security: Knock recognition & Keypad entry.*
-- **Tech:** Pattern Recognition Algorithms, 4x4 Matrix Keypad, Solenoid Control.
+### 🔹 Hardware Design & Simulation
 
-#### 🚗 [Vehicle Proximity Sensor System](LINK_TO_REPO)
-*An embedded safety system to detect obstacles and assist in vehicle navigation.*
-- **Tech:** Ultrasonic/IR Sensors, Proteus Circuit Simulation.
+* **PCB & CAD:** EasyEDA, KiCad, AutoCAD
+* **Simulation:** Proteus, Vivado (FPGA), PSCAD
+* **Electronics:** Signal conditioning, sensor calibration, analog & mixed-signal design
 
-#### 🎹 [Piano Tiles 2.0](LINK_TO_REPO)
-*Hardware implementation of the popular game, focusing on timing accuracy and interrupts.*
-- **Tech:** High-speed Embedded C, Audio/Visual Feedback.
+### 🔹 Development & Analysis Tools
+
+* VS Code, Atmel Studio, Arduino IDE, Keil
+* Power BI, Wireshark, Cisco Packet Tracer
+* Git & GitHub (Version Control)
 
 ---
 
-### 📈 GitHub Stats
-![Shadhurshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadhurshan311&show_icons=true&theme=radical&hide_border=true)
+## 🚀 Selected Projects
+
+### 🏗️ Smart Sensor Network System for Structural Health Monitoring (Final Year Project)
+
+* AI-driven crack detection and classification using **computer vision, sensors, thermal analysis, and ML**
+* ESP32-based **distributed IoT sensor network** with master–slave architecture
+* Multi-modal data fusion using **custom capacitive sensors, environmental sensors, and imaging**
+* Edge-level ML inference using **XGBoost, SVM, and MLP**
+
+### 🔐 KnoxKey – Smart Door Lock with Knock & Keypad Authentication
+
+* Embedded access control system with **dual authentication** (knock pattern + keypad)
+* Custom PCB design, enclosure planning, and real-world hardware validation
+* Focused on **product-oriented embedded system design**
+
+### 🔐 Secret Door Lock with Knock Pattern Recognition
+
+* Timing-based knock pattern recognition using piezoelectric sensing
+* Noise-resistant embedded algorithm with real-time feedback (LCD & LEDs)
+
+### 🚗 Proximity Sensor System for Vehicles
+
+* Circular IR sensor array for obstacle detection
+* Analog signal conditioning with distance-proportional LED feedback
+* Fully simulated and hardware-validated system
+
+### 🎹 Piano Tiles 2.0 – Hardware–Software Integrated Game
+
+* Real-time game integrating **Arduino hardware** with **Python (PyGame)**
+* Multithreaded input handling and synchronized audio-visual feedback
+
+### 🌐 Environmental Monitoring Station (EMS) – IoT Gateway
+
+* Node-RED–based IoT gateway fetching real-time weather data via REST APIs
+* JSON data processing and dynamic dashboard visualization
 
 ---
 
-*"Engineering is not merely knowing and being knowledgeable; engineering is not merely analysis; engineering is not merely the possession of the capacity to get elegant solutions to non-existent engineering problems. Engineering is practicing the art of the organized forcing of technological change." - Gordon Brown*
+## 🏆 Achievements & Awards
+
+* **Presenter – Kandy Conference (2025):** Presented FYP research on Smart Sensor Network Systems for SHM
+* **Paper Selected for Publication:** Springer Nature (forthcoming)
+* **Demonstrator – iPURSE Symposium (2025):** Presented research to academics and industry experts
+* **Exhibitor – EngEX Exhibition (2025):** Demonstrated live ESP32-based SHM system with ML prediction
+* **Technical Exhibitor – School-Level Science & Technology Exhibition (2025)**
 
 ---
 
-### 🤝 Let's Connect
-- 🔭 I’m currently refining my **Structural Health Monitoring** project.
-- 🌱 Learning deep-level **Signal Processing** and **VLSI**.
-- 💬 Ask me about **Arduino hardware** or **Proteus schematics**.
-- 📫 Reach me at: shanchotu11@gmai.com or www.linkedin.com/in/shadhurshan-navaretnam
+## 🤝 Volunteering & Leadership
 
-<!---
-Shadhurshan311/Shadhurshan311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* **Volunteer Tutor**, Tamil Sangam – University of Peradeniya (2023–2025)
+* **Workshop Facilitator**, Engineering Orientation Program (2023–2024)
+
+---
+
+## 🎓 Education
+
+**University of Peradeniya**
+Bachelor of Engineering (B.Sc. Eng.) – Electrical & Electronic Engineering
+**GPA:** 3.30 / 4.00
+
+**KM/Carmel Fatima College**
+G.C.E. Advanced Level: 2A, 1B (District Rank: 9)
+G.C.E. Ordinary Level: 9A
+
+---
+
+## 📫 Contact & Links
+
+* 📧 **Email:** [shanchotu11@gmail.com](mailto:shanchotu11@gmail.com)
+* 📞 **Phone:** +94 77 274 7187
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/shadhurshan-navaretnam](https://www.linkedin.com/in/shadhurshan-navaretnam)
+* 💻 **GitHub:** [https://github.com/Shadhurshan311](https://github.com/Shadhurshan311)
+
+---
+
+> *"Engineering is not merely knowing or analysis; it is the art of deliberately shaping technological change."*
+> — Gordon Brown
