@@ -1,11 +1,10 @@
 # Hi there! I'm Shadhurshan Navaretnam 👋
 
-*(Known as Chotu)*
-
 🎓 `Electrical & Electronic Engineering Undergraduate`
 || 🏛️ `University of Peradeniya, Sri Lanka`
 
 ✈️ Strong interest in **Aviation, Aeronautical & Avionics Engineering**
+🌐 Currently working as **Research & Development Firmware Engineer**
 
 ---
 
