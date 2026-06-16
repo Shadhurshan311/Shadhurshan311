@@ -4,6 +4,7 @@
 || 🏛️ `University of Peradeniya, Sri Lanka`
 
 ✈️ Strong interest in **Aviation, Aeronautical & Avionics Engineering**
+
 🌐 Currently working as **Research & Development Firmware Engineer**
 
 ---
